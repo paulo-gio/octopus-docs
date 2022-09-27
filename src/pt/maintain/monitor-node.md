@@ -1,6 +1,6 @@
 ## Nó de Monitoramento
 
-O validador pode verificar a situação do nó validador por meio da [Telemetria](https://telemetry.mainnet.octopus.network/).
+O validador pode verificar a situação do nó validador por meio do [Telemetry](https://telemetry.mainnet.octopus.network/).
 
 Se for implantado automaticamente, o nome do nó validador será padronizado para `validator-[NEAR account]`, onde `[NEAR account]` é a conta NEAR usada para fazer login na Octopus Network quando o validador for registrado.
 
